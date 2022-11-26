@@ -48,7 +48,7 @@ LATEST VERSION (2022-08-20) ([Whatsapp can't see messages]) [Fixed ]
 </b>
 </details>
 
-<b><details><summary>📤How to Upload Images To Alive Msg📤</summary>
+<b><details><summary>📤ඇයි බන් මාව හෙව්වෙ📤</summary>
 
 > [VIDEO](https://drive.google.com/file/d/16J5278xK9-5oJUsGPygviVC9U6exw1AZ/view)
 
